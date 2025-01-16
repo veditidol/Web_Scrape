@@ -21,7 +21,7 @@ This project is a web scraper built using Flask and Selenium. It scrapes company
 
 ## Setup Instructions
 
-### 1. Clone the Repository
+### Clone the Repository
 
 Clone this repository to your local machine:
 ```bash
